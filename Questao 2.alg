@@ -1,4 +1,4 @@
-algoritmo "Loja de Artesanato - Matriz"
+algoritmo  "Loja de Artesanato - Matriz"
 // Loja de artesanato com cálculo de vendas e comissão usando MATRIZ
 var
 descricao: vetor[0..9] de caractere
